@@ -1,8 +1,8 @@
 Package.describe({
   name: 'gfk:polymer',
-  summary: ' /* Fill me in! */ ',
+  summary: 'Adds polymer to your meteor application',
   version: '0.1.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/gfk-ba/meteor-polymer'
 });
 
 Package.onUse(function(api) {
