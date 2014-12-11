@@ -28,9 +28,3 @@ Package.onUse(function(api) {
 
     api.addFiles('head.html', 'client');
 });
-
-Package.onTest(function(api) {
-  api.use('tinytest');
-  api.use('gfk:polymer');
-  api.addFiles('gfk:polymer-tests.js');
-});
