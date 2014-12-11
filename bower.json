@@ -1,0 +1,19 @@
+{
+  "name": "polymer-meteor",
+  "version": "0.0.0",
+  "authors": [
+    "Martin Aspeli <optilude@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.1"
+  }
+}
